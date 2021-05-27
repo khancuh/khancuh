@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Imran 
+- 👋 Hi, I’m Mohd Imran Khan
 - 👀 I’m interested in Data Scientist, Data Analyst, Machine learning, Natural langauge Processing
 - 🌱 I’m currently learning kaggle and other site
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning domains.
