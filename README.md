@@ -7,7 +7,7 @@
 - 📌 Scroll down to see my Pinned Repositories.
 
 def Imran():
-  skills_with_proficiency = {'Python': 'Intermidiate', 'Rest API': 'Intermidiate', 'JavaScript': 'Intermidiate', 'MongoDB': 'Intermidiate', 'SQL & Oracle': 'Intermidiate', 'HTML & CSS': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Data Science': 'Intermidiate', 'Data Analysis': 'Intermidiate' 'Natural language Processing': 'Intermidiate', 'Deep learning': 'Beginner'}
+  skills_with_proficiency = {'Python': 'Intermidiate', 'Flask': 'Intermidiate', 'Django': 'Intermidiate', 'Rest API': 'Intermidiate', 'JavaScript': 'Intermidiate', 'MongoDB': 'Intermidiate', 'SQL & Oracle': 'Intermidiate', 'HTML & CSS': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Data Science': 'Intermidiate', 'Data Analysis': 'Intermidiate' 'Natural language Processing': 'Intermidiate', 'Deep learning': 'Beginner'}
   
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask']
   
