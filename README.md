@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Imran Khan
-- 👀 I’m interested in Data Scientist, Data Analyst, Machine learning, Deep learning, Natural langauge Processing and Backend Developer.
+- 👀 I’m interested in Data Scientist, Machine learning Engineer, Natural langauge Processing.
 - 🌱 I’m currently learning kaggle and other site
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, back end developer domains.
 - 🎯 Goal : Contribute openly to Data Science and Machine Learning community.
