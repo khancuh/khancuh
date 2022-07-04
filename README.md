@@ -9,7 +9,8 @@
 def Imran():
   skills_with_proficiency = {'Python': 'Intermidiate', 'Flask': 'Intermidiate', 'Django': 'Intermidiate', 'Rest API': 'Intermidiate', 'JavaScript': 'Intermidiate', 'MongoDB': 'Intermidiate', 'SQL & Oracle': 'Intermidiate', 'HTML & CSS': 'Intermidiate', 'Machine Learning': 'Intermidiate', 'Data Science': 'Intermidiate', 'Data Analysis': 'Intermidiate' 'Natural language Processing': 'Intermidiate', 'Deep learning': 'Beginner'}
   
- Machine Learning libarary = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn'
+ Machine Learning libarary = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn']
+ 
  Deep learning Library ["Tensorflow, Keras, etc.]
   
   cloud_architecture = ['heroku']
