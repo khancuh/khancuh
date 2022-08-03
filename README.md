@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kaggle and other site
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning Engineer.
 - 🎯 Goal : Contribute openly to Data Science and Machine Learning community.
-- 📫 How to reach me email-id: mohdimrankhan7388@gmail.com and contact no: 7388646036
+- 📫 How to reach me email-id: mohdimrankhan131313@gmail.com and contact no: 7388646036
 - 📌 Scroll down to see my Pinned Repositories.
 
 def Imran():
