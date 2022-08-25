@@ -11,7 +11,9 @@ def Imran():
   
  Machine Learning libarary = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn']
  
- Deep learning Library ["Tensorflow, Keras, etc.]
+ Deep learning Library [Tensorflow, Keras etc.]
+ 
+ Deep learning model [Densenet, resnet50, VGG, etc.]
   
   cloud_architecture = ['heroku']
   
